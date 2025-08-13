@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "U8LnRb9c8HY=",
+  "success": true,
+  "projectFilePath": "C:\\Dev\\monogame_project\\ECS-Monogame\\ImGuiNet.MonoGame\\ImGuiNet.MonoGame.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\irda\\.nuget\\packages\\imgui.net\\1.90.1.1\\imgui.net.1.90.1.1.nupkg.sha512",
+    "C:\\Users\\irda\\.nuget\\packages\\monogame.framework.desktopgl\\3.8.1.303\\monogame.framework.desktopgl.3.8.1.303.nupkg.sha512",
+    "C:\\Users\\irda\\.nuget\\packages\\system.buffers\\4.4.0\\system.buffers.4.4.0.nupkg.sha512",
+    "C:\\Users\\irda\\.nuget\\packages\\system.numerics.vectors\\4.4.0\\system.numerics.vectors.4.4.0.nupkg.sha512",
+    "C:\\Users\\irda\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.4.0\\system.runtime.compilerservices.unsafe.4.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}

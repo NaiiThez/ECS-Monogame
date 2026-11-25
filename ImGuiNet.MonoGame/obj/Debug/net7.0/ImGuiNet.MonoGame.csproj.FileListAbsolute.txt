@@ -34,3 +34,16 @@ C:\Dev\monogame_project\dqzdqzdzqd\ECS-Monogame\ImGuiNet.MonoGame\obj\Debug\net7
 C:\Dev\monogame_project\dqzdqzdzqd\ECS-Monogame\ImGuiNet.MonoGame\obj\Debug\net7.0\refint\ImGuiNet.MonoGame.dll
 C:\Dev\monogame_project\dqzdqzdzqd\ECS-Monogame\ImGuiNet.MonoGame\obj\Debug\net7.0\ImGuiNet.MonoGame.pdb
 C:\Dev\monogame_project\dqzdqzdzqd\ECS-Monogame\ImGuiNet.MonoGame\obj\Debug\net7.0\ref\ImGuiNet.MonoGame.dll
+C:\Dev\monogame_project\ECS-Monogame\ImGuiNet.MonoGame\bin\Debug\net7.0\ImGuiNet.MonoGame.deps.json
+C:\Dev\monogame_project\ECS-Monogame\ImGuiNet.MonoGame\bin\Debug\net7.0\ImGuiNet.MonoGame.dll
+C:\Dev\monogame_project\ECS-Monogame\ImGuiNet.MonoGame\bin\Debug\net7.0\ImGuiNet.MonoGame.pdb
+C:\Dev\monogame_project\ECS-Monogame\ImGuiNet.MonoGame\obj\Debug\net7.0\ImGuiNet.MonoGame.csproj.AssemblyReference.cache
+C:\Dev\monogame_project\ECS-Monogame\ImGuiNet.MonoGame\obj\Debug\net7.0\ImGuiNet.MonoGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\monogame_project\ECS-Monogame\ImGuiNet.MonoGame\obj\Debug\net7.0\ImGuiNet.MonoGame.AssemblyInfoInputs.cache
+C:\Dev\monogame_project\ECS-Monogame\ImGuiNet.MonoGame\obj\Debug\net7.0\ImGuiNet.MonoGame.AssemblyInfo.cs
+C:\Dev\monogame_project\ECS-Monogame\ImGuiNet.MonoGame\obj\Debug\net7.0\ImGuiNet.MonoGame.csproj.CoreCompileInputs.cache
+C:\Dev\monogame_project\ECS-Monogame\ImGuiNet.MonoGame\obj\Debug\net7.0\ImGuiNet.MonoGame.sourcelink.json
+C:\Dev\monogame_project\ECS-Monogame\ImGuiNet.MonoGame\obj\Debug\net7.0\ImGuiNet.MonoGame.dll
+C:\Dev\monogame_project\ECS-Monogame\ImGuiNet.MonoGame\obj\Debug\net7.0\refint\ImGuiNet.MonoGame.dll
+C:\Dev\monogame_project\ECS-Monogame\ImGuiNet.MonoGame\obj\Debug\net7.0\ImGuiNet.MonoGame.pdb
+C:\Dev\monogame_project\ECS-Monogame\ImGuiNet.MonoGame\obj\Debug\net7.0\ref\ImGuiNet.MonoGame.dll

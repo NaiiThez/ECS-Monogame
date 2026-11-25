@@ -1,5 +1,1 @@
 Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
-"C:/Dev/monogame_project/dqzdqzdzqd/ECS-Monogame/Sandbox/Content/box.png","C:/Dev/monogame_project/dqzdqzdzqd/ECS-Monogame/Sandbox/Content/bin/DesktopGL/Content/box.xnb","TextureProcessor","Texture2DContent",47795,261205,0,1328404
-"C:/Dev/monogame_project/dqzdqzdzqd/ECS-Monogame/Sandbox/Content/defaultFont.spritefont","C:/Dev/monogame_project/dqzdqzdzqd/ECS-Monogame/Sandbox/Content/bin/DesktopGL/Content/defaultFont.xnb","FontDescriptionProcessor","SpriteFontContent",2068,21535,0,1110904
-"C:/Dev/monogame_project/dqzdqzdzqd/ECS-Monogame/Sandbox/Content/map.png","C:/Dev/monogame_project/dqzdqzdzqd/ECS-Monogame/Sandbox/Content/bin/DesktopGL/Content/map.xnb","TextureProcessor","Texture2DContent",1698,258133,0,006561
-"C:/Dev/monogame_project/dqzdqzdzqd/ECS-Monogame/Sandbox/Content/tileMap.png","C:/Dev/monogame_project/dqzdqzdzqd/ECS-Monogame/Sandbox/Content/bin/DesktopGL/Content/tileMap.xnb","TextureProcessor","Texture2DContent",100846,1474645,0,0366332

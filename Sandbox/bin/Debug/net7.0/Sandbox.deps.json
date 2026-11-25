@@ -9,7 +9,6 @@
       "Sandbox/1.0.0": {
         "dependencies": {
           "ImGuiNet.MonoGame": "1.0.0",
-          "MonoGame.Content.Builder.Task": "3.8.1.303",
           "MonoGame.Framework.DesktopGL": "3.8.1.303",
           "irda-framework": "1.0.0"
         },
@@ -18,11 +17,6 @@
         }
       },
       "ImGui.NET/1.90.1.1": {
-        "dependencies": {
-          "System.Buffers": "4.4.0",
-          "System.Numerics.Vectors": "4.4.0",
-          "System.Runtime.CompilerServices.Unsafe": "4.4.0"
-        },
         "runtime": {
           "lib/net6.0/ImGui.NET.dll": {
             "assemblyVersion": "1.90.1.1",
@@ -57,7 +51,6 @@
           }
         }
       },
-      "MonoGame.Content.Builder.Task/3.8.1.303": {},
       "MonoGame.Framework.DesktopGL/3.8.1.303": {
         "runtime": {
           "lib/net6.0/MonoGame.Framework.dll": {
@@ -108,9 +101,6 @@
           }
         }
       },
-      "System.Buffers/4.4.0": {},
-      "System.Numerics.Vectors/4.4.0": {},
-      "System.Runtime.CompilerServices.Unsafe/4.4.0": {},
       "ImGuiNet.MonoGame/1.0.0": {
         "dependencies": {
           "ImGui.NET": "1.90.1.1",
@@ -150,40 +140,12 @@
       "path": "imgui.net/1.90.1.1",
       "hashPath": "imgui.net.1.90.1.1.nupkg.sha512"
     },
-    "MonoGame.Content.Builder.Task/3.8.1.303": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-9Ilzzje62LhWElbPNEl7vh7XsRSbze+lvCJdZtTZUGu48FRgvYN6THURwIB9PN98EI33/Wnf6iuShNUtD7hL4Q==",
-      "path": "monogame.content.builder.task/3.8.1.303",
-      "hashPath": "monogame.content.builder.task.3.8.1.303.nupkg.sha512"
-    },
     "MonoGame.Framework.DesktopGL/3.8.1.303": {
       "type": "package",
       "serviceable": true,
       "sha512": "sha512-eGYhqn0n1olk8MNYeE9EuBmoNNECN1T18rPMaQpkzsEQ0H3nVyFPXC+uCo78v5pi5juQpJ3PSFnSkjzZJ1U58A==",
       "path": "monogame.framework.desktopgl/3.8.1.303",
       "hashPath": "monogame.framework.desktopgl.3.8.1.303.nupkg.sha512"
-    },
-    "System.Buffers/4.4.0": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-AwarXzzoDwX6BgrhjoJsk6tUezZEozOT5Y9QKF94Gl4JK91I4PIIBkBco9068Y9/Dra8Dkbie99kXB8+1BaYKw==",
-      "path": "system.buffers/4.4.0",
-      "hashPath": "system.buffers.4.4.0.nupkg.sha512"
-    },
-    "System.Numerics.Vectors/4.4.0": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-UiLzLW+Lw6HLed1Hcg+8jSRttrbuXv7DANVj0DkL9g6EnnzbL75EB7EWsw5uRbhxd/4YdG8li5XizGWepmG3PQ==",
-      "path": "system.numerics.vectors/4.4.0",
-      "hashPath": "system.numerics.vectors.4.4.0.nupkg.sha512"
-    },
-    "System.Runtime.CompilerServices.Unsafe/4.4.0": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-9dLLuBxr5GNmOfl2jSMcsHuteEg32BEfUotmmUkmZjpR3RpVHE8YQwt0ow3p6prwA1ME8WqDVZqrr8z6H8G+Kw==",
-      "path": "system.runtime.compilerservices.unsafe/4.4.0",
-      "hashPath": "system.runtime.compilerservices.unsafe.4.4.0.nupkg.sha512"
     },
     "ImGuiNet.MonoGame/1.0.0": {
       "type": "project",

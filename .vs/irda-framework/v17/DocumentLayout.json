@@ -1,12 +1,37 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Dev\\monogame_project\\ECS-Monogame\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F406A76D-6FD2-42C7-B5D0-F4AF126071A6}|Sandbox\\Sandbox.csproj|c:\\dev\\monogame_project\\ecs-monogame\\sandbox\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F406A76D-6FD2-42C7-B5D0-F4AF126071A6}|Sandbox\\Sandbox.csproj|solutionrelative:sandbox\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Dev\\monogame_project\\ECS-Monogame\\Sandbox\\Program.cs",
+              "RelativeDocumentMoniker": "Sandbox\\Program.cs",
+              "ToolTip": "C:\\Dev\\monogame_project\\ECS-Monogame\\Sandbox\\Program.cs",
+              "RelativeToolTip": "Sandbox\\Program.cs",
+              "ViewState": "AgIAAE0BAAAAAAAAAAAAAHIBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T17:37:40.15Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

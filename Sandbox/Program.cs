@@ -369,8 +369,8 @@ internal class Program
         }
     }
 
-    private static void Main(string[] args)
-    {
+    static void Main(string[] args)
+    {       
         var app = new Application("ECS Testing", new(1280, 720));
 
         var stateMachine = StateMachine.GetInstance();

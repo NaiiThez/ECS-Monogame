@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ImGuiNet.MonoGame")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a3404e4d3278621b642ead4d13ec06ef9d1f4b8f")]
 [assembly: System.Reflection.AssemblyProductAttribute("ImGuiNet.MonoGame")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ImGuiNet.MonoGame")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
